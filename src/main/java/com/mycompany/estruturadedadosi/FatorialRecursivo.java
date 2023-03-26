@@ -3,7 +3,7 @@ package com.mycompany.estruturadedadosi;
 public class FatorialRecursivo {
     
     public static void main (String[] args){
-        System.out.println(fatorialRecursivo(20));
+        System.out.println(fatorialRecursivo(10));
     }
     
     public static int fatorialRecursivo(int numero) {
